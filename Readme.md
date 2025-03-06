@@ -1,4 +1,6 @@
-# Hugging Face App
+# ChatSphere
+
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/3125d571-eba8-4f0f-9689-9e19c895627e" />
 
 ## Overview
 This application integrates Hugging Face's powerful AI models to perform various machine learning tasks such as text generation, image classification, and more. It utilizes Hugging Face's API with an access token for authentication.
@@ -40,10 +42,7 @@ python app.py
 If you need to create or retrieve your access token:
 1. Go to [Hugging Face Access Tokens](https://huggingface.co/settings/tokens)
 2. Click **Create new token** and set the required permissions
-3. Copy and store your token securely
-
-##Outlook 
-<img width="945" alt="image" src="https://github.com/user-attachments/assets/3125d571-eba8-4f0f-9689-9e19c895627e" />
+3. Copy and store your token securely.
 
 
 ## Contributing
