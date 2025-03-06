@@ -42,6 +42,10 @@ If you need to create or retrieve your access token:
 2. Click **Create new token** and set the required permissions
 3. Copy and store your token securely
 
+##Outlook 
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/3125d571-eba8-4f0f-9689-9e19c895627e" />
+
+
 ## Contributing
 Feel free to fork the repository and submit pull requests to enhance functionality.
 
