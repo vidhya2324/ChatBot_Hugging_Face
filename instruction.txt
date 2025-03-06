@@ -1,0 +1,33 @@
+//install the package in terminal
+ pip install -r requirements.txt
+ check once, its have a correct path of your project. paste the above command inside of src path in the terminal "cd src" this is the command
+
+// provide the latest version of streamlit
+ streamlit
+
+// run the code, by using this command
+streamlit run src/main.py
+
+
+
+
+
+If you don't have a openAI account with paid version...then use the gemini or hugging face...here i use the hugging face,
+it can provide the one API and token and use that one...
+
+//follow up in terminal , run these command in your terminal
+pip install streamlit requests
+pip install huggingface_hub
+huggingface-cli login
+
+//API url
+Here i use the blenderbot....based on your wish, you can use through this
+"facebook/blenderbot-3B" (Conversational AI)
+"microsoft/DialoGPT-large" (Chatbot)
+"tiiuae/falcon-7b-instruct" (More advanced)
+"mistralai/Mistral-7B-Instruct-v0.1" (Lighter LLM)
+
+//run
+streamlit run src/main.py
+
+
